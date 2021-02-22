@@ -29,7 +29,7 @@
 ## :rocket: Desafios
 
 - [Primeiros passos com JavaScript](1.1/1.1.md)
-- [Lidando com objetos e vetores]()
+- [Lidando com objetos e vetores](1.2/1.2.md)
 - [Funções e estruturas de repetição]()
 - [Aplicação: Operações bancárias]()
 
