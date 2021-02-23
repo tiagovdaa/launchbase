@@ -27,6 +27,6 @@ O **LaunchBase** é um treinamento no formato de bootcamp online que tem duraç�
 
 ---
 
-<h3 align="center">
+
 Made by [Tiago Almeida](https://linktr.ee/tiagovdaa)
-</h3>
+
