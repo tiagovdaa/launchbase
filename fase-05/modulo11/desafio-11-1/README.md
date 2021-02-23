@@ -41,4 +41,4 @@ Crie duas animações: a primeira no caso de um registro ser salvo (criar/editar
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)
