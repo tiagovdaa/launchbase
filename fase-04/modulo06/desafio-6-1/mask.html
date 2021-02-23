@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Máscaras de Input</title>
+</head>
+
+<body>
+    <div>
+        CPF: <input type="text" name="cpf" onkeydown="Mask.apply(this, 'formatCPF')">
+        Porcentagem: <input type="text" name="percent" onkeydown="Mask.apply(this, 'formatPercent')">
+    </div>
+
+    <script>
+    const Mask = {
+        apply(input, func) {
+            setTimeout(function() {
+                input.value = Mask[func](input.value)
+            }, 1)
+        },
+        formatPercent(value) {
+            let divide = 10000
+
+            value = value.replace(/\D/g, '')
+
+            const option = {
+                style: 'percent',
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 4
+            }
+            
+            const formatter = Intl.NumberFormat('pt-BR', option)
+            
+            return percentFormat = formatter.format(value/divide)  
+        },
+        formatCPF(value) {
+            value = value.replace(/\D/g,"")
+
+            value = value.replace(/\D/g, '').slice(0, 11)
+            value = value.replace(/^(\d{3})(\d)/g, '$1.$2')
+            value = value.replace(/(.\d{3})(\d)/g, '$1.$2')
+            value = value.replace(/(.\d{3})(\d)/g, '$1-$2')
+
+            return value
+        }
+    }
+    </script>
+    
+</body>
+</html>
