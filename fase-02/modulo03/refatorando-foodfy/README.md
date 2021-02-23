@@ -70,5 +70,4 @@ Dentro da página do detalhe da receita, em cada seção "Ingredientes", "Modo d
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
-
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)

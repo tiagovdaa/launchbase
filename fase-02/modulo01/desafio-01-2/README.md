@@ -95,4 +95,5 @@ O usuário Carlos tem 32 anos e usa a tecnologia C++ com especialidade em Deskto
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)
+

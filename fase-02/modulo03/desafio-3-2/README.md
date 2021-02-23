@@ -26,4 +26,4 @@ Nesse desafio você deve atualizar os arquivos com informações de cursos e des
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)

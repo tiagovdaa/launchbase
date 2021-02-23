@@ -18,15 +18,15 @@
 
 O **LaunchBase** é um treinamento no formato de bootcamp online que tem duração de 6 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, **guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento** que permitirão construir as melhores aplicações e ter acesso às melhores oportunidades como programador.
 
-
-
 ## :rocket: Fases
 
-- [Fase 02](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-02)
-- [Fase 03](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-03)
-- [Fase 04](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-04)
-- [Fase 05](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-05)
+- [Fase 02](./fase-02)
+- [Fase 03](./fase-03)
+- [Fase 04](./fase-04)
+- [Fase 05](./fase-05)
 
 ---
 
-[Tiago Almeida](https://linktr.ee/tiagovdaa)
+<h3 align="center">
+Made by [Tiago Almeida](https://linktr.ee/tiagovdaa)
+</h3>
