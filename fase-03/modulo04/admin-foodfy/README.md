@@ -137,4 +137,5 @@ Altere as rotas desenvolvidas no desafio anterior para exibir as receitas do nov
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)
+

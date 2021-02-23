@@ -90,4 +90,4 @@ Fazer uma contagem de todas a receitas daquele chef, e apresentar nessa página.
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)

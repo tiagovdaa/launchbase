@@ -43,4 +43,5 @@ Acesse a pasta `layouts/assets` para obter todas imagens utilizadas no layout.
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)
+

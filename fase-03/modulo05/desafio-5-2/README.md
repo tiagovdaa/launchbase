@@ -55,4 +55,4 @@ Refatore o controller de estudantes utilizando as mesmas ideias aplicadas no con
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)

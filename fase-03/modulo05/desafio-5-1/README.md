@@ -63,4 +63,5 @@ Por fim, instale a biblioteca `pg` e crie o arquivo de configuração do seu ban
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+by [Tiago Almeida](https://linktr.ee/tiagovdaa)
+

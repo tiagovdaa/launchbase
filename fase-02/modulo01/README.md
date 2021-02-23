@@ -22,10 +22,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiros passos com JavaScript](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-02/modulo01/desafio-01-1)
-- [Lidando com objetos e vetores](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-02/modulo01/desafio-01-2)
-- [Funções e estruturas de repetição](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-02/modulo01/desafio-01-3)
-- [Aplicação: Operações bancárias](https://github.com/grioos/bootcamp-launchbase/tree/master/fase-02/modulo01/desafio-01-4)
+- [Primeiros passos com JavaScript](./desafio-01-1)
+- [Lidando com objetos e vetores](./desafio-01-2)
+- [Funções e estruturas de repetição](./desafio-01-3)
+- [Aplicação: Operações bancárias](./desafio-01-4)
 
 ---
 
